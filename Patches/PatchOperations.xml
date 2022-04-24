@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/ThingDef[defName="GroundPenetratingScanner"]/comps</xpath>
+    <value>
+      <li><compClass>Auto_Deep_Drill.Gizmos</compClass></li>
+    </value>
+</Operation>
+</Patch>

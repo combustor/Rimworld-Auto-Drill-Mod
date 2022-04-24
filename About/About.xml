@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Auto Drill Placer</name>
+	<packageId></packageId>
+	<author>the other guy</author>
+	<url>null</url>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+		<li>1.2</li>
+		<li>1.3</li>
+	</supportedVersions>
+	<modDependencies></modDependencies>
+	<loadBefore></loadBefore>
+	<loadAfter>
+		<li>net.pardeike.rimworld.mod.harmony</li>
+	</loadAfter>
+	<incompatibleWith></incompatibleWith>
+	<description>This automatically places drills at whatever ore you want</description>
+</ModMetaData>
